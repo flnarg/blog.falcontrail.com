@@ -1,38 +1,25 @@
-# folder settings
-source: .
-destination: ./_site
+# Site settings
+title: "Falcon Trail"
+description: > 
+  Falcon Trail internal blog
 
-# site settings
-permalink: /:categories/:title
-markdown: rdiscount
-
-# site url
-url: flnarg.github.io
-
-# used by images inserted in posts
-# file: http://rsrc.sparanoid.com
-
-# used by specified background images
-# assets-cdn: http://a2.sparanoid.com
-
-# used by css url in default.html and index.xml
-css-path: /blog.falcontrail.com/css
-
-# custom vars, most of them are used by index.xml
-name: Falcon Trail
-full-name: Tunghiao Liu
+author: Falcon Trail Inc
 email: contacto@falcontrail.com
-slogan: I make things that don't suck.
-twitter: falcontrail
+twitter_username:
+github_username:
 
-# fire up a localhost and auto generate when files change
-auto: true
-server: ture
-server_port: 4321
+baseurl: "/blog.falcontrail.com" # the subpath of your site, e.g. /blog
+url: "https://flnarg.github.io" # the base hostname & protocol for your site
 
-# exclude files for generated site
-exclude: 
-- README.md
-- LICENSE
-- Rakefile
-- nite.tmproj
+# google_analytics_id: UA-1111111111-1
+# disqus_id:
+
+# Build settings
+# include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+
+sass:
+    style: compressed
+
+exclude: [vendor]
