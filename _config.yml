@@ -19,11 +19,11 @@ url: flnarg.github.io
 css-path: /blog.falcontrail.com/css
 
 # custom vars, most of them are used by index.xml
-name: Sparanoid
+name: Falcon Trail
 full-name: Tunghiao Liu
-email: info@sparanoid.com
+email: contacto@falcontrail.com
 slogan: I make things that don't suck.
-twitter: sparanoid
+twitter: falcontrail
 
 # fire up a localhost and auto generate when files change
 auto: true
