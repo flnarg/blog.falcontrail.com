@@ -8,8 +8,8 @@ email: contacto@falcontrail.com
 twitter_username:
 github_username:
 
-baseurl: "/blog.falcontrail.com" # the subpath of your site, e.g. /blog
 url: "https://flnarg.github.io" # the base hostname & protocol for your site
+baseurl: "/blog.falcontrail.com" # the subpath of your site, e.g. /blog
 
 # google_analytics_id: UA-1111111111-1
 # disqus_id:
