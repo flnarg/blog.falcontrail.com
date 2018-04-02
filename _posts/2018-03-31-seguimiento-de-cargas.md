@@ -8,8 +8,6 @@ comments: false
 author: Francisco Caballero
 ---
 
-# Seguimiento de Cargas
-
 Nuestro objetivo es prestar soluciones que permitan a las empresas de transporte tener un servicio sin interrupciones, seguro y eficiente. Sabemos que la transparencia es clave para generar confianza con los clientes.
 
 Por esto, en Febrero decidimos comenzar a trabajar en el prototipo del Itinerario, una nueva forma de realizar el seguimiento de cargas, que afecta a empresas transportistas, choferes y usuarios finales.
