@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actualizaciones"
+title: "Aplicación móvil y digitalización de comprobantes"
 description: ""
 date: 2018-04-27
 tags: release, engineering, product
