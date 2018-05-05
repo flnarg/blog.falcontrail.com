@@ -7,9 +7,7 @@ tags: release, engineering, product
 comments: false
 author: Francisco Caballero
 ---
-<center>
 ![Falcon Trail](/blog.falcontrail.com/assets/2018-03-31-seguimiento-de-cargas-falcon-trail.png "Falcon Trail")
-</center>
 
 Nuestro objetivo es prestar soluciones que permitan a las empresas de transporte tener un servicio sin interrupciones, seguro y eficiente. Sabemos que la transparencia es clave para generar confianza con los clientes.
 

@@ -22,4 +22,4 @@ Proveemos una solución para el reconocimiento de datos en fotos extrayendo la i
 
 Este proceso permite dar más confianza al proceso de control y mantener un registro digital de los comprobantes y remitos, lo que agiliza el proceso de facturación.
 
-![Falcon Trail](/assets/2018-03-31-seguimiento-de-cargas-falcon-trail.png "Falcon Trail")
+![Falcon Trail](/blog.falcontrail.com/assets/2018-03-31-seguimiento-de-cargas-falcon-trail.png "Falcon Trail")
