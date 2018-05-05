@@ -14,7 +14,7 @@ Conocer el estado de un envío planificado permite al Operador Logístico poder 
 
 Cuando el Operador define el itinerario, el chofer asignado puede acceder instantáneamente desde su celular a la información detallada de la carga y la ruta asignada. Para mantener el contacto con el Operador y mejorar la transparencia el chofer cuenta con la capacidad de ir actualizando manualmente el estado de los tramos.
 
-![Falcon Trail](/assets/2018-03-31-seguimiento-de-cargas-falcon-trail.png "Falcon Trail")
+![Falcon Trail](/blog.falcontrail.com/assets/2018-03-31-seguimiento-de-cargas-falcon-trail.png "Falcon Trail")
 
 ## Digitalización de documentos
 
